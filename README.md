@@ -23,7 +23,7 @@ This is an [Expo] project in which user can explore a world of connections where
    In the Terminal, you'll find options to open the app 
    -Simply  scan the QR code in your expo go app.
    -Expo go can be downloaded from playstore or app store.
-   -Open the in android studio .
+   -Open in the android studio .
 
 # Folder Structure
 - app
