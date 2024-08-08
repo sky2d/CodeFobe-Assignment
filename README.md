@@ -4,7 +4,7 @@ This is an [Expo] project in which user can explore a world of connections where
 
 ## Get started
 
-2. Clone the repo
+1. Clone the repo
   - git clone <repo-url>
 
 2. Install dependencies
