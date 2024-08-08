@@ -1,0 +1,1 @@
+export const baseUrl = "https://random-data-api.com/api/users/random_user";
